@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Alura.Adopet.Console": {
+      "commandName": "Project",
+      //"commandLineArgs": "import ../../../lista.csv"
+      "commandLineArgs": "help import"
+    }
+  }
+}
